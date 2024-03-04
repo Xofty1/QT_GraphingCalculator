@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/img">
+        <file>icon-delete.png</file>
+        <file>chart.png</file>
+    </qresource>
+</RCC>
