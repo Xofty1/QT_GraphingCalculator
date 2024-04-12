@@ -23,16 +23,16 @@
    <widget class="QGroupBox" name="groupBox">
     <property name="geometry">
      <rect>
-      <x>660</x>
-      <y>100</y>
-      <width>411</width>
-      <height>91</height>
+      <x>650</x>
+      <y>80</y>
+      <width>491</width>
+      <height>111</height>
      </rect>
     </property>
     <property name="font">
      <font>
       <family>Limelight</family>
-      <pointsize>14</pointsize>
+      <pointsize>10</pointsize>
       <stylestrategy>PreferDefault</stylestrategy>
       <kerning>false</kerning>
      </font>
@@ -1669,7 +1669,7 @@ color: grey;
      <x>0</x>
      <y>0</y>
      <width>1148</width>
-     <height>22</height>
+     <height>26</height>
     </rect>
    </property>
   </widget>

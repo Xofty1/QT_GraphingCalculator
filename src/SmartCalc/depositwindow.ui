@@ -257,7 +257,7 @@ border-radius: 10px;</string>
          </font>
         </property>
         <property name="text">
-         <string>Срок кредита</string>
+         <string>Срок вклада</string>
         </property>
        </widget>
       </item>
